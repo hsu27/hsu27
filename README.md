@@ -1,8 +1,7 @@
 ## Hi there, I'm Liang-Hui Hsu 👋
 
-## I'm a Developer !!
+## I'm a Developer !
 
-- 🌱 I like to learn new knowledge, especially python and linux
 - 🔭 My CV - https://www.cake.me/liang-hui
 <br />
 <h3 align="left">Languages and Tools:</h3>
